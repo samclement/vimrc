@@ -1,6 +1,7 @@
 colorscheme solarized
 set background=dark
 set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+unmap <C-b>
 
 " syntastic
 set statusline+=%#warningmsg#
