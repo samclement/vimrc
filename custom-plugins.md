@@ -6,7 +6,6 @@
 - vim-javascript:  
   `git clone https://github.com/pangloss/vim-javascript.git vim-javascript`
 - syntastic-local-eslint:  
-  `git clone https://github.com/mtscout6/syntastic-local-eslint.vim.git syntastic-local-eslint`
 - vim-prettier:  
   `git clone https://github.com/prettier/vim-prettier.git vim-prettier`
 - vim-unimpaired:  
@@ -15,4 +14,4 @@
   `git clone https://github.com/Valloric/YouCompleteMe.git YouCompleteMe`  
   `cd YouCompleteMe`  
   `git submodule update --init --recursive`  
-  `./install.py --clang-completer`  
+  `./install.py --clang-completer --go-completer --js-completer`  
