@@ -5,11 +5,12 @@
   `git clone https://github.com/Raimondi/delimitMate.git delimitMate`
 - vim-javascript:  
   `git clone https://github.com/pangloss/vim-javascript.git vim-javascript`
-- syntastic-local-eslint:  
 - vim-prettier:  
   `git clone https://github.com/prettier/vim-prettier.git vim-prettier`
 - vim-unimpaired:  
   `git clone https://github.com/tpope/vim-unimpaired.git vim-unimpaired`
+- ale:  
+  `git clone https://github.com/w0rp/ale.git ale`
 - YouCompleteMe:  
   `git clone https://github.com/Valloric/YouCompleteMe.git YouCompleteMe`  
   `cd YouCompleteMe`  
